@@ -1,0 +1,32 @@
+/* .f2{
+    margin-top:30px;
+} */
+
+
+
+/* Clear floats after the columns */
+.f3{
+    margin-top:100px;
+    height:100px;
+    
+   
+    margin-left:30px;
+}
+.f1
+{
+    margin-left:44px;
+
+    padding-top:1px;
+    margin-top:30px;
+    background:pink;
+    
+    width:800px;
+    height:300px;
+}
+.t1{
+    width:400px;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+/* .t1{
+    width:50%;
+} */

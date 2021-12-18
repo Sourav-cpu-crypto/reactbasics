@@ -1,0 +1,21 @@
+{"Product":[{"p_name":"Mobile","p_id":"p01","description":"Mobile","images1":"../../mobile.jpg"
+    ,"subCategory":[{
+        "s_id":"ps01","company":"Samsung s10","price":"rs12000","images":[{"imageid":"i01","image":"../../mobile.jpg"},{"imageid":"i02","image":"../../tv.jpg"}]},
+        
+        {       "s_id":"ps02","company":"Samsung s20","price":"rs12000","images":[{"imageid":"i01","image":"../../mobile.jpg"},{"imageid":"i02","image":"../../tv.jpg"}]},
+        {       "s_id":"ps03","company":"Oppo F10","price":"rs12000","images":[{"imageid":"i03","image":"../../tv.jpg"},{"imageid":"i02","image":"../../mobile.jpg"}]},
+        {       "s_id":"ps04","company":"Oppo F10","price":"rs12000","images":[{"imageid":"i04","image":"../../mobile.jpg"},{"imageid":"i02","image":"../../mobile.jpg"}]}]},
+
+
+        {"p_name":"tv","p_id":"p02","description":"tv","images1":"../../tv.jpg",
+    "subCategory":[{
+        "s_id":"ps01","company":"Samsung","price":"rs12000","images":[{"imageid":"i01","image":"../../mobile.jpg"},{"imageid":"i02","image":"../../mobile.jpg"}]},
+        {"s_id":"ps02","company":"LG","price":"rs15000","images":[{"imageid":"i02","image":"../../mobile.jpg"},{"imageid":"i02","image":"../../mobile.jpg"}]},
+        {       "s_id":"ps03","company":"Sony","price":"rs12000","images":[{"imageid":"i03","image":"../../mobile.jpg"},{"imageid":"i02","image":"../../mobile.jpg"}]}
+        ]}
+
+
+        
+        ]
+        
+    }
